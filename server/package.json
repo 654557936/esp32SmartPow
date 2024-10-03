@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "metrics-os": "^1.0.1",
+    "os-utils": "^0.0.14",
+    "systeminformation": "^5.23.5"
+  }
+}
